@@ -1,0 +1,19 @@
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\bin\Debug\net6.0-windows\Strong Parser C3.exe
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\bin\Debug\net6.0-windows\Strong Parser C3.deps.json
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\bin\Debug\net6.0-windows\Strong Parser C3.runtimeconfig.json
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\bin\Debug\net6.0-windows\Strong Parser C3.dll
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\bin\Debug\net6.0-windows\ref\Strong Parser C3.dll
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\bin\Debug\net6.0-windows\Strong Parser C3.pdb
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.csproj.AssemblyReference.cache
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.AssemblyInfoInputs.cache
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.AssemblyInfo.cs
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.csproj.CoreCompileInputs.cache
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.dll
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\ref\Strong Parser C3.dll
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.pdb
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.genruntimeconfig.cache
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong_Parser_C3.Strong_Parser_Form.resources
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.csproj.GenerateResource.cache
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\Keegh\OneDrive\Personal\Strong Parser C3\Strong Parser C3\obj\Debug\net6.0-windows\Strong Parser C3.csproj.CopyComplete

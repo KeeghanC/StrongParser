@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zAFEncS2qCoNEA1Hy/M9FZ5vAO36OLmnfN+q7IX0OJ00nrUu6oJ6Ns4spzi/oH7wqbGlOTmIzbSMjvKo+cusw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keegh\\OneDrive\\Personal\\Strong Parser C3\\Strong Parser C3\\Strong Parser C3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keegh\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\Keegh\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Keegh\\.nuget\\packages\\scottplot\\4.1.61\\scottplot.4.1.61.nupkg.sha512",
+    "C:\\Users\\Keegh\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\Keegh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
